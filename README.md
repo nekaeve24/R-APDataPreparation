@@ -76,5 +76,5 @@ Future iterations of this project could include:
 
 ## 📬 Contact
 **Created by:** Neka Everett
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neka-e-a3443368/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neka-e-a3443368/)  
 🔗 [Portfolio Home](https://github.com/nekaeve24/data-portfolio)
