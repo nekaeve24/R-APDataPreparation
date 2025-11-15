@@ -29,18 +29,18 @@ This project showcases the *output* of the R data pipeline.
 
 **Key Visuals:**
 
-* ![R ggplot2 chart showing AP scores grouped by school and year](path/to/school_chart.png)  
-* ![R ggplot2 bar chart comparing mean AP scores across all tested subjects](path/to/subject_chart.png)  
-* ![R ggplot2 visual highlighting mean AP scores attributed to individual teachers](path/to/teacher_chart.png)  
+* ![R ggplot2 chart showing AP scores grouped by school and year](AP_Scores_by_School.png)  
+* ![R ggplot2 bar chart comparing mean AP scores across all tested subjects](AP_Scores_by_Subject.png)  
+* ![R ggplot2 visual highlighting mean AP scores attributed to individual teachers](AP_Scores_by_Teachers.png)  
 
 ---
 
 ## 📁 Files
 This repository contains the following key project asstes:  
 
-* **Source Code:** [Link to R Script](path)
+* **Source Code:** [Link to R Script](AP_Data_Preparation.R)
   (The complete R script used for ETL and EDA.)
-* **Processed Data Output:** [Link to Processed CSV](link)
+* **Processed Data Output:** [Link to Processed CSV](AP_Dataset_Public.csv)
   (The normalized, clean data ready for BI analysis.)
 
 ---
